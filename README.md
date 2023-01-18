@@ -1,5 +1,7 @@
 # referencing-values-with-refs
 
+![stopwatch_ref](https://user-images.githubusercontent.com/85868026/213131933-c2e0e52b-45a2-4317-b77e-ea0a0e04a2c0.png)
+
 In this read, I learnt:
 
 - use a `ref` to **make a component remember some information without it (the new information) triggering new renders
